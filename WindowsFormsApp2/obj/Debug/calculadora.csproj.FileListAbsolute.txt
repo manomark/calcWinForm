@@ -1,0 +1,10 @@
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.calculadora.resources
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\aluno1\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
